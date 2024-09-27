@@ -111,7 +111,7 @@ visitors %>%
 
 ## Question 5
 
-_How many `"O"`utside attractions are there in the `"Yorkshire and the Humber"` region that gives `"Members"` free admission, which had more than 100,000 visitors in 2022?_
+_How many `"O"`utside attractions are there in the `"Yorkshire and the Humber"` region that gives `"Members"` free admission, which had more than 100,000 visitors in 2022?_ 
 
 ```{r Q5}
 visitors %>%
